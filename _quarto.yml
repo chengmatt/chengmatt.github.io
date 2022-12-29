@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  resources: static
+
+website:
+  title: "Matthew LH. Cheng"
+  navbar:
+    left:
+      - text: "CV"
+        file: files/CV.pdf
+    right:
+      - icon: github
+        href: https://github.com/chengmatt
+      - icon: twitter
+        href: https://twitter.com/MLCheng3
+
+format:
+  html:
+    theme: 
+      dark: superhero
+      light: sandstone
+    css: styles.css
+    toc: true
+
+

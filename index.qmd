@@ -1,0 +1,22 @@
+---
+title: "Matthew LH. Cheng"
+about:
+  template: trestles
+  image: files/prof_pic.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/MLCheng3
+    - icon: github
+      text: Github
+      href: https://github.com/chengmatt
+    - icon: Google Scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=bVXM7dsAAAAJ&hl=en 
+---
+
+
+I am a 2nd year PhD student in the College of Fisheries and Ocean Sciences program at the University of Alaska Fairbanks, based in Juneau. 
+
+
+Currently, my research focuses on advancing the federal sablefish stock assessment in Alaska. Specifically, I am developing models that intercalibrate different gear types (pot and hook-and-line gear) and characterize trends in abundance using fishery-dependent data derived from both vessel logbooks and observer data. Given recent developments in the sablefish fishery, I am also working on investigating different treatments of fleet structure within the federal sablefish stock assessment. The general themes of my research revolve around advancing stock assessment methods and quantitative ecology, with recent interest in state-space assessment models.
